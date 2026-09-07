@@ -113,23 +113,6 @@ I translate business outcomes into technical implementations that drive growth.
 | **API Design** | REST, GraphQL, Webhooks, Microservices | ⭐⭐⭐⭐⭐ |
 
 ---
-
-## 🌟 Featured Projects
-
-**Qeloma Suite** — Seven production-grade capability demos showcasing enterprise AI integrations. Enterprise work (Talentnix ATS, APAC HRMS, iAgility, AgileiBrains) is in private, IP-protected repos under NDA. Architecture diagrams, live walkthroughs, and references available upon request.
-
-| Project | Capability | Tech Stack |
-| --------- | ------------ | ------------ |
-| [Qeloma Verdict](https://github.com/Qeloma/qeloma-verdict) | Tamper-evident decision engine with cryptographic audit trails for EU AI Act compliance | NestJS, PostgreSQL, OpenAI |
-| [Qeloma OCR](https://github.com/Qeloma/qeloma-ocr) | Client-side OCR with per-word confidence scoring (Tesseract.js / Gemini Vision / hybrid) | React, Tesseract.js, Gemini Vision |
-| [Qeloma Lens Studio](https://github.com/Qeloma/qeloma_lens_studio) | AI-powered document analysis — summarize, extract, compare (Gemini + rule-based fallbacks) | NestJS, Gemini, TypeScript |
-| [Qeloma Voice Studio](https://github.com/Qeloma/qeloma_voice_studio) | Real-time voice analyst grounded in custom document corpus (Gemini Live API) | WebRTC, Gemini Live, Node.js |
-| [Qeloma Shift](https://github.com/Qeloma/qeloma_shift) | Semantic change-intelligence engine — meaning-level diffing and materiality scoring | LangChain, PostgreSQL, OpenAI |
-| [Qeloma Cover Studio](https://github.com/Qeloma/qeloma-cover-studio) | Browser-based LinkedIn banner designer with optional Gemini-assisted generation | React, Gemini, Canvas API |
-| [Room Booking](https://github.com/Qeloma/qeloma_room_booking_app) | Resource-management platform — meeting room scheduling and booking automation | NestJS, PostgreSQL, React |
-
----
-
 ## 🎓 Professional Certifications
 
 ### 53 Verified Certifications Across Leading Platforms
@@ -146,6 +129,21 @@ I translate business outcomes into technical implementations that drive growth.
 | **Gemini Gear** | 1 | Gemini Enterprise Applications |
 
 ➜ **[View Full Certification Gallery & Verification Links](./certifications.md)**
+
+---
+## 🌟 Featured Projects
+
+**Qeloma Suite** — Seven production-grade capability demos showcasing enterprise AI integrations. Enterprise work (Talentnix ATS, APAC HRMS, iAgility, AgileiBrains) is in private, IP-protected repos under NDA. Architecture diagrams, live walkthroughs, and references available upon request.
+
+| Project | Capability | Tech Stack |
+| --------- | ------------ | ------------ |
+| [Qeloma Verdict](https://github.com/Qeloma/qeloma-verdict) | Tamper-evident decision engine with cryptographic audit trails for EU AI Act compliance | NestJS, PostgreSQL, OpenAI |
+| [Qeloma OCR](https://github.com/Qeloma/qeloma-ocr) | Client-side OCR with per-word confidence scoring (Tesseract.js / Gemini Vision / hybrid) | React, Tesseract.js, Gemini Vision |
+| [Qeloma Lens Studio](https://github.com/Qeloma/qeloma_lens_studio) | AI-powered document analysis — summarize, extract, compare (Gemini + rule-based fallbacks) | NestJS, Gemini, TypeScript |
+| [Qeloma Voice Studio](https://github.com/Qeloma/qeloma_voice_studio) | Real-time voice analyst grounded in custom document corpus (Gemini Live API) | WebRTC, Gemini Live, Node.js |
+| [Qeloma Shift](https://github.com/Qeloma/qeloma_shift) | Semantic change-intelligence engine — meaning-level diffing and materiality scoring | LangChain, PostgreSQL, OpenAI |
+| [Qeloma Cover Studio](https://github.com/Qeloma/qeloma-cover-studio) | Browser-based LinkedIn banner designer with optional Gemini-assisted generation | React, Gemini, Canvas API |
+| [Room Booking](https://github.com/Qeloma/qeloma_room_booking_app) | Resource-management platform — meeting room scheduling and booking automation | NestJS, PostgreSQL, React |
 
 ---
 
