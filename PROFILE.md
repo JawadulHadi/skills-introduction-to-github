@@ -25,10 +25,10 @@
   </a>
 </p>
 
-<p align="center"><sub>LinkedIn, GitHub, ORCID, and other accounts are verified on the <a href="https://gravatar.com/juhbukhari">Gravatar profile</a> above.</sub></p>
+<p align="left"><sub>LinkedIn, GitHub, ORCID, and other accounts are verified on the <a href="https://gravatar.com/juhbukhari">Gravatar profile</a> above.</sub></p>
 
-<p align="center"><i>Open to remote, hybrid, or relocation — US / EU / APAC overlap</i></p>
-<p align="center"><i>Full-time or contract engagements</i></p>
+<p align="left"><i>Open to remote, hybrid, or relocation — US / EU / APAC overlap</i></p>
+<p align="left"><i>Full-time or contract engagements</i></p>
 
 ---
 
