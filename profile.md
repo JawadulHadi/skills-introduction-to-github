@@ -14,7 +14,7 @@
   <a href="https://jawadulhadi-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/💼_Portfolio-ca8a04?style=flat&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:jawadulhadicc@gmail.com">
+  <a href="[def2]">
     <img src="https://img.shields.io/badge/✉️_Email-dc2626?style=flat&logoColor=white" alt="Email" />
   </a>
   <a href="https://wa.me/923467248414">
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I architect resilient, multi-tenant SaaS platforms where AI adds value rather than creating risk.
 
@@ -44,7 +44,7 @@ I translate business outcomes into technical implementations that drive growth.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Backend & Languages
 
@@ -101,7 +101,7 @@ I translate business outcomes into technical implementations that drive growth.
 
 ---
 
-## 📊 Skills Matrix
+## Skills Matrix
 
 | Domain | Technologies | Proficiency |
 | -------- | -------------- | ------------- |
@@ -113,7 +113,7 @@ I translate business outcomes into technical implementations that drive growth.
 | **API Design** | REST, GraphQL, Webhooks, Microservices | ⭐⭐⭐⭐⭐ |
 
 ---
-## 🎓 Professional Certifications
+## Professional Certifications
 
 ### 53 Verified Certifications Across Leading Platforms
 
@@ -131,7 +131,7 @@ I translate business outcomes into technical implementations that drive growth.
 ➜ **[View Full Certification Gallery & Verification Links](./certifications.md)**
 
 ---
-## 🌟 Featured Projects
+## Featured Projects
 
 **Qeloma Suite** — Seven production-grade capability demos showcasing enterprise AI integrations. Enterprise work (Talentnix ATS, APAC HRMS, iAgility, AgileiBrains) is in private, IP-protected repos under NDA. Architecture diagrams, live walkthroughs, and references available upon request.
 
@@ -144,14 +144,6 @@ I translate business outcomes into technical implementations that drive growth.
 | [Qeloma Shift](https://github.com/Qeloma/qeloma_shift) | Semantic change-intelligence engine — meaning-level diffing and materiality scoring | LangChain, PostgreSQL, OpenAI |
 | [Qeloma Cover Studio](https://github.com/Qeloma/qeloma-cover-studio) | Browser-based LinkedIn banner designer with optional Gemini-assisted generation | React, Gemini, Canvas API |
 | [Room Booking](https://github.com/Qeloma/qeloma_room_booking_app) | Resource-management platform — meeting room scheduling and booking automation | NestJS, PostgreSQL, React |
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JawadulHadi&layout=pie&hide_title=true&langs_count=8&theme=ambient_gradient" alt="Top Languages" width="400" />
-</p>
 
 ---
 
@@ -168,16 +160,28 @@ I translate business outcomes into technical implementations that drive growth.
 
 - No sensitive personal or client information is shared publicly
 - Contact information provided is official professional channels only
-- For opportunities or references: [Gravatar profile](https://gravatar.com/juhbukhari) or [Email](mailto:jawadulhadicc@gmail.com)
+- For opportunities or references: [Gravatar profile][def3] or [Email][def2]
 
 ### Attribution
 
-- GitHub Statistics powered by [github-readme-stats](https://github-stats-extended.vercel.app/api/top-langs/?username=JawadulHadi&layout=pie&hide_title=true&langs_count=8&theme=ambient_gradient)
+- GitHub Statistics powered by [github-readme-stats][def]
 - Banner assets custom-designed and version-controlled
 - Repository maintained in compliance with GitHub Community Guidelines
 
 ---
 
+## GitHub Statistics
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JawadulHadi&layout=pie&hide_title=true&langs_count=8&theme=ambient_gradient" alt="Top Languages" width="400" />
+</p>
+
+---
 <p align="center">
   <sub>Most enterprise work is maintained under NDA across private repositories. The public portfolio represents capability demonstrations and open-source contributions.</sub>
 </p>
+
+
+[def]: https://github-stats-extended.vercel.app/api/top-langs/?username=JawadulHadi&layout=pie&hide_title=true&langs_count=8&theme=ambient_gradient
+[def2]: mailto:jawadulhadicc@gmail.com
+[def3]: https://gravatar.com/juhbukhari
