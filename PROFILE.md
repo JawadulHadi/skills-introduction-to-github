@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/banners/repo-banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="/banners/repo-banner-light.png">
-    <img src="/banners/repo-banner-light.png" alt="Jawad Ul Hadi — AI & SaaS Architect" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./banners/repo-banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./banners/repo-banner-light.png">
+    <img src="./banners/repo-banner-light.png" alt="Jawad Ul Hadi — AI & SaaS Architect" width="100%" />
   </picture>
 </p>
 
@@ -128,7 +128,7 @@ I translate business outcomes into technical implementations that drive growth.
 | **Udemy / e-smartdata.org** | 1 | Certified Django Developer |
 | **Gemini Gear** | 1 | Gemini Enterprise Applications |
 
-➜ **[View Full Certification Gallery & Verification Links](/CERTIFICATIONS.md)**
+➜ **[View Full Certification Gallery & Verification Links](./CERTIFICATIONS.md)**
 
 ---
 ## Featured Projects
@@ -159,7 +159,7 @@ I translate business outcomes into technical implementations that drive growth.
 ### Data & Privacy
 
 - No sensitive personal or client information is shared publicly
-- Contact information provided is official professional channels only
+- Contact information provided is through official professional channels only
 - For opportunities or references: [Gravatar profile][def3] or [Email][def2]
 
 ### Attribution
